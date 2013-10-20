@@ -1,0 +1,7 @@
+DATAVERSITY DEMO
+Macroinvertebrate data for Horizons region and Marlborough district
+are pulled into R using SOS 2.0 requests (returning WaterML2.0 data)
+
+These data are plotted using ggplot2
+
+Created 20-Oct-2013
